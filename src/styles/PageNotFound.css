@@ -1,0 +1,13 @@
+.pageNotFound {
+    height: 80vh;
+    width: 100%;
+    text-align: center;
+    margin: auto auto;
+
+}
+
+.pageNotFound a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: rgba(255, 0, 0, 0.783);
+}
